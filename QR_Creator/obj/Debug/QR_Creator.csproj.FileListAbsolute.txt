@@ -1,0 +1,7 @@
+C:\Users\ckmaster\source\repos\QR_Creator\QR_Creator\bin\Debug\QR_Creator.exe.config
+C:\Users\ckmaster\source\repos\QR_Creator\QR_Creator\bin\Debug\QR_Creator.exe
+C:\Users\ckmaster\source\repos\QR_Creator\QR_Creator\bin\Debug\QR_Creator.pdb
+C:\Users\ckmaster\source\repos\QR_Creator\QR_Creator\obj\Debug\QR_Creator.csprojAssemblyReference.cache
+C:\Users\ckmaster\source\repos\QR_Creator\QR_Creator\obj\Debug\QR_Creator.csproj.CoreCompileInputs.cache
+C:\Users\ckmaster\source\repos\QR_Creator\QR_Creator\obj\Debug\QR_Creator.exe
+C:\Users\ckmaster\source\repos\QR_Creator\QR_Creator\obj\Debug\QR_Creator.pdb
